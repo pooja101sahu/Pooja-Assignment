@@ -1,2 +1,2 @@
 # Pooja-Assignment
-this is an assingment of data science tools module.
+this is an assignment of data science tools module.
